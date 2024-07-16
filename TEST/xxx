@@ -1,136 +1,28 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://xn--l3cfb6bac0s3af2a.com/wp-content/uploads/2023/09/TYT-1405-400x235.jpg" group-title="samurai" ,ดูหนังโป๊เสร็จ เย็ดตุ๊กตางตัวละแสน ผิวอย่างเนียนหุ่นเท่าคนจริงๆ จับตะแคงกระเด้าสด รูฟิตทำน้ำแตก
-#EXTVLCOPT:http-referrer=https://cdx888.me/
- https://cdx888.me/playlist/update_efmed9p7.m3u8
+ช่องกีฬา IPTV แบบ H264 ภาพชัดมาก 13 ช่อง
 
-#EXTINF:-1,DLTV1
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-#EXTINF:-1,DLTV2
-http://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-#EXTINF:-1,DLTV3
-http://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-#EXTINF:-1,DLTV4
-http://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-#EXTINF:-1,DLTV5
-http://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-#EXTINF:-1,DLTV6
-http://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-#EXTINF:-1,DLTV7
-http://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-#EXTINF:-1,DLTV8
-http://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1,DLTV9
-http://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-#EXTINF:-1,DLTV10
-http://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-#EXTINF:-1,DLTV11
-http://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-#EXTINF:-1,DLTV12
-http://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-#EXTINF:-1,DLTV13
-http://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-#EXTINF:-1,DLTV14
-http://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-#EXTINF:-1,DLTV15
-http://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-#EXTINF:-1,ETV
-http://tv.better-than.tv/thaisat/etv.php
-#EXTINF:-1,MCOT
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1,ช่อง 3
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":66}
-#EXTINF:-1,ช่อง 5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1,ช่อง 7
-https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1,ช่อง 8
-http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
-#EXTINF:-1,เวิร์คพอยท์
-http://122.155.205.9/live/workpoint.stream/playlist.m3u8
-#EXTINF:-1,โมโน 29
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":73}
-#EXTINF:-1,M Channel
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":30}
-#EXTINF:-1,MVTV
-https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
-#EXTINF:-1,MVTV Chinese
-https://edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist.m3u8
-#EXTINF:-1,MVTV Five Channel
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist.m3u8
-#EXTINF:-1,Nation TV
-http://live.nationtv.tv/hls/ntv_th_hd.m3u8
-#EXTINF:-1,อัมรินทร์ ทีวี เอชดี
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":74}
-#EXTINF:-1,News 1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1,NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1,ONE 31
-https://one31-rlbwkq.cdn.byteark.com/live/playlist-sd.m3u8
-#EXTINF:-1,Thai PBS 3
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":64}
-#EXTINF:-1,69 TV
-https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
-#EXTINF:-1,TVB Thai Series
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":199}
-#EXTINF:-1,Movies Hits
-http://s3remoteservice.psi.co.th/api/SetChannelClick|{"login_type":"member","members_id":"12345","channel_id":94}
-#EXTINF:-1,tvN THAI
-http://103.120.113.90:1935/psilive3a/TVN_THAI.stream_360p/playlist.m3u8
-#EXTINF:-1,พีเอสไอ สาระดี
-http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
-#EXTINF:-1,TVN SHOPPING
-http://96.30.124.99:1935/psilive2a/KM_TVN.stream_360p/playlist.m3u8
-#EXTINF:-1,True Shopping
-http://96.30.124.99:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
-#EXTINF:-1,ทีวีดี โมโม่ 2
-http://96.30.124.99:1935/psilive2a/MOMO2.stream_360p/playlist.m3u8
-#EXTINF:-1,ทีวีดี โมโม่ 3
-http://96.30.124.99:1935/psilive2a/MOMO3.stream_360p/playlist.m3u8
-#EXTINF:-1,T Variety
-http://96.30.124.99:1935/psilive3a/Tvariety.stream_360p/playlist.m3u8
-#EXTINF:-1,TIGER SHOPPING
-http://96.30.124.99:1935/psilive2a/TigerShop.stream_360p/playlist.m3u8
-#EXTINF:-1,เกษตรนิวส์
-http://96.30.124.100:1935/psilive3a/KasetNEW.stream_360p/playlist.m3u8
-#EXTINF:-1,ทีวี บ้านบ้าน
-http://96.30.124.100:1935/psilive2a/BBTV.stream_360p/playlist.m3u8
-#EXTINF:-1,การ์ตูนคลับ
-http://96.30.124.99:1935/psilive3a/CARTOON_CLUB.stream_360p/playlist.m3u8
-#EXTINF:-1,โมโนพลัส
-http://103.120.113.90:1935/psilive3a/Mono_plus.stream_360p/playlist.m3u8
-#EXTINF:-1,ท็อปไลน์ ทีวี
-http://96.30.124.99:1935/psilive2a/Topline.stream_360p/playlist.m3u8
-#EXTINF:-1,TOP TV
-http://103.120.113.90:1935/psilive2a/TopTV.stream_360p/playlist.m3u8
-#EXTINF:-1,มังกร
-http://96.30.124.99:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
-#EXTINF:-1,STAR TV_HIT SQUAR
-http://96.30.124.99:1935/psilive2a/BERNGDEE.stream_360p/playlist.m3u8
-#EXTINF:-1,แฟนทีวี
-http://96.30.124.99:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
-#EXTINF:-1,M CHANNEL
-http://96.30.124.100:1935/psilive3a/M_Channel.stream_360p/playlist.m3u8
-#EXTINF:-1,TOONEE
-http://103.120.113.90:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
-#EXTINF:-1,40-50
-http://96.30.124.99:1935/psilive3a/40_50.stream_360p/playlist.m3u8
-#EXTINF:-1,DOONEE
-http://103.120.113.90:1935/psilive2a/DOONEE.stream_360p/playlist.m3u8
-#EXTINF:-1,ZEENUNG
-http://96.30.124.100:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
-#EXTINF:-1,NHANG DUNG
-http://96.30.124.101:1935/psilive2a/NungDung.stream_360p/playlist.m3u8
-#EXTINF:-1,โชคดีทีวี
-http://96.30.124.99:1935/psilive2a/ChokDTV.stream_360p/playlist.m3u8
-#EXTINF:-1,JKN DRAMAX
-http://96.30.124.99:1935/psilive3a/JKN.stream_360p/playlist.m3u8
-#EXTINF:-1,เนรมิต แชนแนล
-http://96.30.124.99:1935/psilive3a/NhangChannel.stream_360p/playlist.m3u8
-#EXTINF:-1,Channel 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1,AL Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,Bloomberg
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1,Channel News Asia
+#EXTINF:-1,H264 Bein-Sport-1HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30274.m3u8
+#EXTINF:-1,H264 Bein-Sport-2HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30273.m3u8
+#EXTINF:-1,H264 Bein-Sport-3HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30281.m3u8
+#EXTINF:-1,H264 Bein-Sport-4HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30283.m3u8
+#EXTINF:-1,H264 Bein-Sport-5HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30270.m3u8
+#EXTINF:-1,H264 Bein-Sport-6HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30280.m3u8
+#EXTINF:-1,H264 Bein-Sport-7HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30279.m3u8
+#EXTINF:-1,H264 Bein-Sport-8HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30269.m3u8
+#EXTINF:-1,H264 Bein-Sport-9HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30272.m3u8
+#EXTINF:-1,H264 Bein-Sport-10HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30277.m3u8
+#EXTINF:-1,H264 Bein-Sport-11HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30284.m3u8
+#EXTINF:-1,H264 Bein-Sport-12HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30271.m3u8
+#EXTINF:-1,H264 Bein-Sport-13-HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30282.m3u8
